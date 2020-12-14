@@ -1,9 +1,13 @@
 ### Hi there 👋 
 
 ### Learn About Me here
+
 ![I am a Data Science Enthusiast](https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-### About me: I am passionate about harnessing the power of machine learning and data science to help people become more productive, effective, and developing humanity.
+### THARUN P
+_________________________________________________________________________________________________________________________________________________________________
+
+I am passionate about harnessing the power of machine learning and data science to help people become more productive, effective, and developing humanity.
 
 ### Skills: Python, R, Linux, Tensorflow
 
