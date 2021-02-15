@@ -20,6 +20,9 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Blockchain Enthusiast for FUTURE!
 
+![giphy](https://user-images.githubusercontent.com/41158838/107965900-f6e96800-6f5f-11eb-934f-59a788ee01a7.gif)
+
+
 🙋I am a Data frenzy guy currently 
 
 🦾Machine learning and NLP enthusiast. Bit more intrigued in 100% Renewable energy and 3D printing and Robots
