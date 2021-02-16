@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
-### Learn About Me here
+### Learn About Me Here 👇
 
 
-![I am a Data Science Enthusiast](https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+![I am a Data Science Enthusiast](https://user-images.githubusercontent.com/41158838/108084792-7abb5700-7029-11eb-879c-3abe5aca20ad.png)
 
 ### THARUN P
 _________________________________________________________________________________________________________________________________________________________________
@@ -34,9 +34,9 @@ I am passionate about harnessing the power of machine learning and data science 
 
 🤝 My secondary roles include contributing, learning.
 
-⏩Reach out to me at below e-mail id for collaborations, ideas and opportunities 👇👇
+⏩Reach out to me at below e-mail id for collaborations, ideas and opportunities 👇
 
-tharunfutur@outlook.com
+                                                                      tharunfutur@outlook.com
 
 💡P.S.: I am looking for a change of role within Machine Learning, any leads are welcome.💡🔀 
 
