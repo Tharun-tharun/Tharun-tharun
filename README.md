@@ -43,3 +43,7 @@ I am passionate about harnessing the power of machine learning and data science 
 🔰 :beginner: If problem looks too odd better back to beginners mindset, I'm serious that will make real sense to it though 🤝
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+
+
+![Donate](https://img.shields.io/badge/Donate-ADA-green.svg)
