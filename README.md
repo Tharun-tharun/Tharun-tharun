@@ -18,7 +18,7 @@ I am passionate about harnessing the power of machine learning and data science 
 ### Follow me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@aaronmagnus_p)  
 
-### Blockchain Enthusiast towards FUTURE!
+### Blockchain Enthusiast Towards Decentralized Future!
 
 ![giphy](https://user-images.githubusercontent.com/41158838/107965900-f6e96800-6f5f-11eb-934f-59a788ee01a7.gif)
 
@@ -47,3 +47,8 @@ I am passionate about harnessing the power of machine learning and data science 
 ### Research to life, so you can make an impact on tomorrow.
 
 ![Donate](https://img.shields.io/badge/Donate-ADA-green.svg)
+
+
+
+
+### "Great projects cannot be built by one person"
