@@ -54,8 +54,8 @@ I am passionate about harnessing the power of machine learning and data science 
 
 
 
-[![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)]
-[![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)]
+![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
 
+![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)
 
 ### "Great projects cannot be built by one person" by Mars
