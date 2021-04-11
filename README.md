@@ -52,9 +52,10 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Research to life, so you can make an impact on tomorrow.
 
-![Donate](https://img.shields.io/badge/Donate-ADA-green.svg)
 
 
+[![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)]
+[![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)]
 
 
-### "Great projects cannot be built by one person"
+### "Great projects cannot be built by one person" by Mars
