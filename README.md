@@ -4,7 +4,6 @@
 
 ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
 
-### THARUN P
 _________________________________________________________________________________________________________________________________________________________________
 
 I am passionate about harnessing the power of machine learning and data science to help people become more productive, effective, and developing humanity.
