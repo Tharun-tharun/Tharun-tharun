@@ -6,7 +6,7 @@
 
 _________________________________________________________________________________________________________________________________________________________________
 
-I am passionate about harnessing the power of machine learning and data science to help people become more productive, effective, and developing humanity.
+I am passionate about harnessing the power of machine learning and data science to help developing humanity.
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -56,4 +56,8 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)
 
-### "Great projects cannot be built by one person" by Mars
+### "Great projects cannot be built by one person"
+
+### “To slow time down, practice enjoying the moment. It is where we spend our entire lives.”
+
+
