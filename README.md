@@ -2,8 +2,7 @@
 
 ### Learn About Me Here 👇
 
-
-![I am a Data Science Enthusiast](https://user-images.githubusercontent.com/41158838/108084792-7abb5700-7029-11eb-879c-3abe5aca20ad.png)
+![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
 
 ### THARUN P
 _________________________________________________________________________________________________________________________________________________________________
