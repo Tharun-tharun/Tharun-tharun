@@ -50,8 +50,15 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Research to life, so you can make an impact on tomorrow.
 
+__________________________________________________________________________________________________________________________________________________________________________
+
+### ⚡ Publications
+<!-- PUBLICATION START -->
+* [Smart Grid Local Energy Using Blockchain](https://www.researchgate.net/publication/352475622_Smart_Grid_Local_Energy_Trading_Based_Crypto_Token_Using_Blockchain)
 
 
+
+__________________________________________________________________________________________________________________________________________________________________________
 ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
 
 ![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)
