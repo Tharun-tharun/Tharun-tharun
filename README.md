@@ -52,16 +52,6 @@ I am passionate about harnessing the power of machine learning and data science 
 ### Research to life, so you can make an impact on tomorrow.
 
 __________________________________________________________________________________________________________________________________________________________________________
-
-### ⚡ Publications
-<!-- PUBLICATION START -->
-* [Smart Grid Local Energy Using Blockchain](https://www.researchgate.net/publication/352475622_Smart_Grid_Local_Energy_Trading_Based_Crypto_Token_Using_Blockchain)
-
-Other Sources (Blogs)
-
-* [My First Hands on Experience with GPT-3!](https://tharunaiyadhav.medium.com/my-first-hands-on-experience-with-gpt-3-6f6a258991d)
-
-__________________________________________________________________________________________________________________________________________________________________________
 ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
 
 ![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)
