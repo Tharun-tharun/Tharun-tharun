@@ -50,7 +50,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-dayanand&" alt="Tharun-tharun" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tharun-tharun)](https://git.io/streak-stats)
 
 ### Research to life, so you can make an impact on tomorrow.
 
