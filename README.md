@@ -61,6 +61,6 @@ ________________________________________________________________________________
 ### “To slow time down, practice enjoying the moment. It is where we spend our entire lives.”
 
 
-                                                   Show some ❤️ by following me and starring some of the repositories!
+                                   ### Show some ❤️ by following me and starring some of the repositories!
 
 
