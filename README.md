@@ -27,6 +27,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ![giphy](https://user-images.githubusercontent.com/41158838/107965900-f6e96800-6f5f-11eb-934f-59a788ee01a7.gif)
 
+
 🙋I am a Data frenzy guy currently 
 
 🦾Machine learning and NLP enthusiast. Bit more intrigued in 100% Renewable energy and 3D printing and Robots
@@ -49,6 +50,8 @@ I am passionate about harnessing the power of machine learning and data science 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-dayanand&" alt="Tharun-tharun" /></p>
+
 ### Research to life, so you can make an impact on tomorrow.
 
 __________________________________________________________________________________________________________________________________________________________________________
@@ -60,7 +63,12 @@ ________________________________________________________________________________
 
 ### “To slow time down, practice enjoying the moment. It is where we spend our entire lives.”
 
+</div>
 
-###                                                     Show some ❤️ by following me and starring some of the repositories!
+<div align="center">
+
+### Show some ❤️ by following me and starring some of the repositories!
+
+</div>
 
 
