@@ -42,7 +42,7 @@ I am passionate about harnessing the power of machine learning and data science 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 - 🔭 I’m currently working on something interesting 
-- 💬 Ask me about or Feel free to send me a pull request if you find any mistakes or have better answers. 
+- 💬 Ask me about or Feel free to contribute to my projetcs or do pull request if you have a better solution. 
 
 ### Blockchain Enthusiast Towards Decentralized Future!
 
