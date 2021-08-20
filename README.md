@@ -75,9 +75,12 @@ I am passionate about harnessing the power of machine learning and data science 
 ### Research to life, so you can make an impact on tomorrow.
 
 __________________________________________________________________________________________________________________________________________________________________________
-![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
+### To support this project, you can make a donation to its current maintainer:
+  
+![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg) 
+  ![qrcode](https://user-images.githubusercontent.com/41158838/130180739-cd868d98-9b35-4e20-b59a-e319a5286bab.png)
 
-![Donate Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)
+  ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
 
 ### "Great projects cannot be built by one person"
 
