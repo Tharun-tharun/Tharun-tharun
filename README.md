@@ -78,9 +78,12 @@ ________________________________________________________________________________
 ### To support this project, you can make a donation here 👇
   
 <a href="bitcoin:1DF9jgzftTFn4ZnDV2YEjUtZ3uHtBywj57?label=In%20the%20treatment%20of%20Sasha's%20teeth&amp;amount=0.0037"><img src="https://www.drupal.org/files/project-images/bitcoindonate.png" alt="Bitcoin Donate Button"></a> 
-  ![qrcode](https://user-images.githubusercontent.com/41158838/130180739-cd868d98-9b35-4e20-b59a-e319a5286bab.png)
+  ![qrcode](https://user-images.githubusercontent.com/41158838/130180739-cd868d98-9b35-4e20-b59a-e319a5286bab.png) 
+  
+  ```
+bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
+```
 
-  ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
 
 ### "Great projects cannot be built by one person"
 
@@ -97,4 +100,4 @@ ________________________________________________________________________________
 ## Follow me on 👇
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaiyadhav.medium.com)
 
-
+  ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg)
