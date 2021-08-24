@@ -108,6 +108,22 @@ bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
 ## Follow me on 👇
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
  
+  <!--
   </div>
+  
+  <a href="https://twitter.com/tharunp_33">
+  <img align="left" alt="Shoray Singhal | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+  
+<a href="https://www.linkedin.com/in/tharun-p-827813177/">
+  <img align="left" alt="Shoray's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>  
+  
+<a href="https://discord.com/">
+  <img align="left" alt="Shoray's Discord" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111644.png" /> 
+</a>      
+<br>
 
-  ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg) 
+<br>
+ 
+  ![Donate Cardano](https://img.shields.io/badge/Donate-ADA-green.svg) -->
