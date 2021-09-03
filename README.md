@@ -46,8 +46,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Blockchain Enthusiast Towards Decentralized Future!
 
-![giphy](https://user-images.githubusercontent.com/41158838/107965900-f6e96800-6f5f-11eb-934f-59a788ee01a7.gif)
-
+![1_2DCgG_y9aYFax8KbDziqpA (1)](https://user-images.githubusercontent.com/41158838/132002588-4087a66d-aee7-4201-9d24-849716f56957.gif)
 
 🙋I am a Data frenzy guy currently 
 
@@ -67,7 +66,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 💡P.S.: I am looking for a change of role within Machine Learning, any leads are welcome.💡🔀 
 
-🔰 :beginner: If problem looks too odd better back to beginners mindset, I'm serious that will make real sense to it though 🤝
+🔰Beginner: If problem looks too odd better back to beginners mindset, I'm serious that will make real sense to it though 🤝
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
