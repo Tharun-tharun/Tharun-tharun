@@ -12,7 +12,7 @@
 
 ### Learn About Me Here 👇
 
-![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
+  ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
 
 _________________________________________________________________________________________________________________________________________________________________
 
@@ -46,7 +46,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Blockchain Enthusiast Towards Decentralized Future!
 
-![1_2DCgG_y9aYFax8KbDziqpA (1)](https://user-images.githubusercontent.com/41158838/132002588-4087a66d-aee7-4201-9d24-849716f56957.gif)
+  ![slim-jim-_dribbble_-_800x600_](https://user-images.githubusercontent.com/41158838/132103147-ac977bc1-be32-4e0f-84d0-9b5af3df2db3.gif)
 
 🙋I am a Data frenzy guy currently 
 
