@@ -12,9 +12,9 @@
 
 ### Learn About Me Here 👇
 
-  ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
+![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
 
-_________________________________________________________________________________________________________________________________________________________________
+---
 
 I am passionate about harnessing the power of machine learning and data science to help developing humanity.
 
@@ -41,14 +41,14 @@ I am passionate about harnessing the power of machine learning and data science 
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-- 🔭 I’m currently working on something interesting 
-- 💬 Ask me about or Feel free to contribute to my projetcs or do pull request if you have a better solution. 
+- 🔭 I’m currently working on something interesting
+- 💬 Ask me about or Feel free to contribute to my projetcs or do pull request if you have a better solution.
 
 ### Blockchain Enthusiast Towards Decentralized Future!
 
-  ![slim-jim-_dribbble_-_800x600_](https://user-images.githubusercontent.com/41158838/132103147-ac977bc1-be32-4e0f-84d0-9b5af3df2db3.gif)
+![slim-jim-_dribbble_-_800x600_](https://user-images.githubusercontent.com/41158838/132103147-ac977bc1-be32-4e0f-84d0-9b5af3df2db3.gif)
 
-🙋I am a Data frenzy guy currently 
+🙋I am a Data frenzy guy currently
 
 🦾Machine learning and NLP enthusiast. Bit more intrigued in 100% Renewable energy and 3D printing and Robots
 
@@ -64,7 +64,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
                                                                       tharunfutur@outlook.com
 
-💡P.S.: I am looking for a change of role within Machine Learning, any leads are welcome.💡🔀 
+💡P.S.: I am looking for a change of role within Machine Learning, any leads are welcome.💡🔀
 
 🔰Beginner: If problem looks too odd better back to beginners mindset, I'm serious that will make real sense to it though 🤝
 
@@ -74,9 +74,10 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ### Research to life, so you can make an impact on tomorrow.
 
-__________________________________________________________________________________________________________________________________________________________________________
+---
+
 ### To support my projects, you can make a donation here 👇
-  
+
   <div align="center">
     
 <a href="bitcoin:1DF9jgzftTFn4ZnDV2YEjUtZ3uHtBywj57?label=In%20the%20treatment%20of%20Sasha's%20teeth&amp;amount=0.0037"><img src="https://www.drupal.org/files/project-images/bitcoindonate.png" alt="Bitcoin Donate Button"></a> 
@@ -88,7 +89,6 @@ ________________________________________________________________________________
   ```
 bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
 ```
-
 
 ### "Great projects cannot be built by one person"
 
@@ -105,8 +105,9 @@ bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
   <div align="center">
 
 ## Follow me on 👇
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
- 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
+
   <!--
   </div>
   
