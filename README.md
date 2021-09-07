@@ -52,7 +52,7 @@ I am passionate about harnessing the power of machine learning and data science 
 
 🦾Machine learning and NLP enthusiast. Bit more intrigued in 100% Renewable energy and 3D printing and Robots
 
-🧰 My skills include: Python, SQL, Sk-learn, Pandas, Data cleaning, visualization, Tensorflow, Keras, AWS Sagemaker, Azure ML Studio, Docker.
+🧰My skills include: Python, SQL, Sk-learn, Pandas, Data cleaning, visualization, Tensorflow, Keras, AWS Sagemaker, Azure ML Studio, Docker.
 
 📝I love to contribute and create content related to Machine Learning, Artificial Intellingence, and Data Science.
 
@@ -62,15 +62,16 @@ I am passionate about harnessing the power of machine learning and data science 
 
 ⏩Reach out to me at below e-mail id for collaborations, ideas and opportunities. 👇
 
-                                                                      tharunfutur@outlook.com
+                                                                      tharunaiyadhav@gmail.com
 
 💡P.S.: I am looking for a change of role within Machine Learning, any leads are welcome.💡🔀
 
 🔰Beginner: If problem looks too odd better back to beginners mindset, I'm serious that will make real sense to it though 🤝
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tharun-tharun)](https://git.io/streak-stats)
+  <div float="left">
+ <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharun-tharun&layout=compact&theme=highcontrast&custom_title=streak-stats-ty&hide_border=true&layout=compact"  width="48%" align="center" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=Tharun-tharun&theme=highcontrast&layout=compact&hide_border=true" align="center" width="48%"></a>
+  </div><br />
 
 ### Research to life, so you can make an impact on tomorrow.
 
@@ -104,10 +105,10 @@ bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
   
   <div align="center">
 
-## Follow me on 👇
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
-
+    
   <!--
   </div>
   
