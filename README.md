@@ -99,7 +99,7 @@ bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
 
 <div align="center">
 
-### Show some ❤️ by following me and starring some of the repositories!
+### Show some ❤️ by following me and starring some of the repositories! 🙏
 
 </div>
   
