@@ -15,8 +15,10 @@
 ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
 
 ---
-
-I am passionate about harnessing the power of machine learning and data science to help developing humanity.
+  
+  I am passionate about harnessing the power of machine learning and data science to help developing humanity.
+  
+  ## Better future lies in a robust understanding of how decisions are made, how errors are generated.
 
 ### Tools Worked with
 
