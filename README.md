@@ -65,6 +65,14 @@
 🚀Sometimes used to think about colonization of Mars.
 
 🤝 My secondary roles include contributing, learning.
+  
+  ### Wanna see my blogs:question::fire:
+  
+<!-- BLOG-POST-LIST:START -->
+- [Build a Movie Recommendation Flask Based Deployment](https://medium.com/analytics-vidhya/build-a-movie-recommendation-flask-based-deployment-8e2970f1f5f1)
+- [Four Takeaway of Those of You Who Want To Enter AI Industry](https://medium.com/mlearning-ai/four-takeaway-of-those-of-you-who-want-to-enter-ai-industry-4cbc495d5688)
+- [EleutherAI’s GPT-J vs OpenAI’s GPT-3](https://tharunaithink.medium.com/eleutherais-gpt-j-vs-openai-s-gpt-3-c30a54c18e91)
+<!-- BLOG-POST-LIST:END -->
 
 ⏩Reach out to me at below e-mail id for collaborations, ideas and opportunities. 👇
 
