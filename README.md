@@ -15,6 +15,8 @@
 ### Learn About Me Here 👇
 
 ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
+  
+  <p align="left"> <a href="https://twitter.com/@tharunp_33" target="blank"><img src="https://img.shields.io/twitter/follow/tharunp_33?logo=twitter&style=for-the-badge" alt="tharunp_33" /></a> </p>
 
 ---
   
@@ -111,7 +113,7 @@ bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tharunp_33) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tharun-tharun) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tharun-p-827813177/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://tharunaithink.medium.com)
     
   <!--
   </div>
