@@ -9,6 +9,8 @@
  
  <em> Want to know more about me? [Click here](https://tharunp.tech/) </em>
 <em>
+  
+  ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ### Learn About Me Here 👇
 
