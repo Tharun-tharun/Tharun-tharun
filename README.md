@@ -105,9 +105,9 @@
 bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
 ```
 
-  ### Let’s break our addiction to the clock and see where we can go.
+  ### "Let’s break our addiction to the clock and see where we can go".
   
-### "Great projects cannot be built by one person"
+### "Great projects cannot be built by one person."
 
 ### “To slow time down, practice enjoying the moment. It is where we spend our entire lives.”
 
