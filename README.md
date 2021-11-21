@@ -20,7 +20,7 @@
 
 ---
   
-  I am passionate about harnessing the power of machine learning and data science to help developing humanity.
+  Data Science and Artificial Intelligence - I am passionate about harnessing the power of developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing, Computer Vision and Generative Models.
   
   ## Better future lies in a robust understanding of how decisions are made, how errors are generated.
 
