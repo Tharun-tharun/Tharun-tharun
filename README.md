@@ -13,11 +13,21 @@
   ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ### Learn About Me Here 👇
-
-![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
+  
+  ![Tharun](https://user-images.githubusercontent.com/41158838/117633317-cb2ae800-b132-11eb-9352-6dca535e55df.gif)
   
   <p align="left"> <a href="https://twitter.com/@tharunp_33" target="blank"><img src="https://img.shields.io/twitter/follow/tharunp_33?logo=twitter&style=for-the-badge" alt="tharunp_33" /></a> </p>
+  
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/calltharunp)
+  
+  If you want to contribute feel free to do it at :coffee:, and many thanks in advance.
 
+For as we well know 
+
+`var code = developer + caffeine`
+
+:grin:
+  
 ---
   
   Data Science and Artificial Intelligence - I am passionate about harnessing the power of developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing, Computer Vision and Generative Models.
