@@ -108,11 +108,9 @@ For as we well know
 <a href="bitcoin:1DF9jgzftTFn4ZnDV2YEjUtZ3uHtBywj57?label=In%20the%20treatment%20of%20Sasha's%20teeth&amp;amount=0.0037"><img src="https://www.drupal.org/files/project-images/bitcoindonate.png" alt="Bitcoin Donate Button"></a> 
     
   </div>
-    
-  ![qrcode](https://user-images.githubusercontent.com/41158838/130180739-cd868d98-9b35-4e20-b59a-e319a5286bab.png) 
   
   ```
-bc1q44sc4pqqdug4ec67z5fvx92td2pukcgfpsccy0
+  bc1qhth3em57p5jxhqy5aud8f5s6eu6tgm87y6jxsc
 ```
 
   ### "Let’s break our addiction to the clock and see where we can go".
