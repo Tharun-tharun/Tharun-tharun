@@ -20,7 +20,7 @@
   
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/calltharunp)
   
-  If you want to contribute feel free to do it at :coffee:, and many thanks in advance.
+  If you want to contribute feel free to do it at Buy me a coffee! :coffee:, and many thanks in advance.
 
 For as we well know 
 
